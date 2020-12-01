@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606793237 source:c:\users\msis\documents\201046008\linked-list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+
+1606793960 c:\users\msis\documents\201046008\linked-list\slist.h
+	<stdint.h>
+
